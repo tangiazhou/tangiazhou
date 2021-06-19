@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tangiazhou
 - 👀 I’m interested in signal processing and communications
-- 🌱 I’m currently studying Computer Engineering at UofT
+- 🌱 I’m currently studying Computer Engineering at the University of Toronto
 - 💞️ I’m looking to collaborate on any coding projects related to the ECE field or human factors
 - 📫 You can reach me at tangia.zhou@mail.utoronto.ca
 
