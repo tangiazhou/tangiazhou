@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tangia Zhou
 - 👀 I’m interested in computer hardware and signal processing
 - 🌱 I’m currently studying Computer Engineering at the University of Toronto
-- 💞️ I’m looking to collaborate on any projects related to the ECE field, especially those involving computer hardware
+- 💞️ I’m looking to collaborate on any projects in the ECE field
 - 📫 You can reach me at tangia.zhou@mail.utoronto.ca
 
 <!---
