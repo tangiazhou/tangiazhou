@@ -1,7 +1,7 @@
 - 👋 Hi everyone, my name is Tangia Zhou
-- 🌱 I’m currently studying Electrical and Computer Engineering at the University of Toronto
+- 🌱 I’m currently in my third year of ECE af UofT
 - 👀 I’m interested in computer hardware and signal processing
-- 💞️ I’m looking to collaborate on any projects related to the ECE field
+- 💞️ I’m looking at working on any projects related to software or hardware
 - 📫 You can reach me at tangia.zhou@gmail.com
 
 <!---
