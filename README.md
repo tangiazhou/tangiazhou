@@ -1,5 +1,5 @@
 - 👋 Hi everyone, my name is Tangia Zhou
-- 🌱 I’m going into my third year of computer engineering at UofT
+- 🌱 I’m in my third year of computer engineering at the University of Toronto
 - 👀 I’m interested in electronics, hardware, and communications
 - 💞️ I’m looking at working on any projects in the engineering field
 - 📫 You can reach me at tangia.zhou@gmail.com
