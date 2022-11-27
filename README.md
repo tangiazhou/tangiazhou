@@ -1,4 +1,4 @@
-- 👋 Hi everyone, my name is Tangia Zhou
+- 👋 Hi everyone, my name is Tangia
 - 🌱 I’m in my third year of computer engineering at the UofT
 - 👀 I’m interested in electronics, hardware, and communications
 - 💞️ I’m looking at working on any projects in the engineering field
