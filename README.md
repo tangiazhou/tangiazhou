@@ -6,4 +6,3 @@
 
 💡 Feel free to reach out anytime! I'm always looking forward to working on new projects!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangiazhou)](https://github.com/tangiazhou/github-readme-stats)
