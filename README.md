@@ -1,6 +1,6 @@
 👋 Hey I'm Tangia
 
-👩🏻‍🎓 I'm currently studying Electrical and Computer Engineering at the University of Toronto
+👩🏻‍🎓 I'm currently studying Electrical Engineering at the University of Toronto
 
 📡 I'm interested in wireless communication, embedded systems, and IC design
 
