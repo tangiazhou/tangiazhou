@@ -1,4 +1,4 @@
-👋 Hey I'm Tangia
+👋 Hi I'm Tangia
 
 👩🏻‍🎓 I'm currently studying Electrical Engineering at the University of Toronto
 
